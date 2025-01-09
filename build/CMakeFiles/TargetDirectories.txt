@@ -1,0 +1,3 @@
+/home/fajarjulyana/Unduhan/app_camera/build/CMakeFiles/CameraApp.dir
+/home/fajarjulyana/Unduhan/app_camera/build/CMakeFiles/edit_cache.dir
+/home/fajarjulyana/Unduhan/app_camera/build/CMakeFiles/rebuild_cache.dir
